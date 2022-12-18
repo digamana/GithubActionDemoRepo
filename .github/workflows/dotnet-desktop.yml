@@ -12,7 +12,7 @@ jobs:
   build_and_test:
 
     env:
-      BUILD_CONFIG: 'Release'
+      BUILD_CONFIG: 'Debug'
       SOLUTION: 'GithubActionDemo/GithubActionDemo.sln'
 
     runs-on: ubuntu-latest

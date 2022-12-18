@@ -20,6 +20,6 @@ namespace GithubActionDemo.test
         public void Add(int a, int b, int sum)
         {
             Assert.That(a+ b, Is.EqualTo(sum));
-        }
+        } 
     }
 }
