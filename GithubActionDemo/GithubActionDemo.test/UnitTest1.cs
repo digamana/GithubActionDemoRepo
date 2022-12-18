@@ -21,5 +21,5 @@ namespace GithubActionDemo.test
         {
             Assert.That(a+ b, Is.EqualTo(sum));
         } 
-    }
+    } 
 }
